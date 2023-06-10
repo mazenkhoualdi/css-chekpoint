@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(7, 114, 109);
+}
+nav ul li {
+  padding-top: 5px;
+  padding-left: 3%;
+  padding-right: 1%;
+  list-style-type: none;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: small;
+}
+#hm {
+  padding-left: 360px;
+}
+nav ul li a {
+  color: aliceblue;
+  text-decoration: none;
+}
+nav ul li a:hover {
+  color: rgb(192, 9, 149);
+}
+#p1 {
+  padding-top: 10px;
+  font-size: 15px;
+  color: rgb(255, 254, 255);
+  font-size: medium;
+}
+#p2 {
+  font-size: 20px;
+  color: aliceblue;
+  font-size: medium;
+}
+#p3 {
+  font-size: 18px;
+  color: aliceblue;
+  font-size: medium;
+}
+.col {
+  color: rgb(88, 10, 160);
+}
+
+h1 {
+  color: aqua;
+}
+
+.ab {
+  color: rgb(7, 239, 193);
+  font-family: sans-serif;
+  font-size: large;
+}
